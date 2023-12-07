@@ -6,9 +6,9 @@
     },
     "favicon": "/favicon.png",
     "colors": {
-      "primary": "#3E4AE7",
-      "light": "#6772FF",
-      "dark": "#3E4AE7"
+      "primary": "#0E0E0E",
+      "light": "#FAFAFA",
+      "dark": "#0E0E0E"
     },
     "topbarCtaButton": {
       "name": "Sign In",
